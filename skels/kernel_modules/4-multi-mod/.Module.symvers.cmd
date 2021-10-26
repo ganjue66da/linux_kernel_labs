@@ -1,0 +1,1 @@
+cmd_/home/wwq/vm_linux/linux/tools/labs/skels/kernel_modules/4-multi-mod/Module.symvers := sed 's/ko$$/o/' /home/wwq/vm_linux/linux/tools/labs/skels/kernel_modules/4-multi-mod/modules.order | scripts/mod/modpost   -E  -o /home/wwq/vm_linux/linux/tools/labs/skels/kernel_modules/4-multi-mod/Module.symvers -e -i Module.symvers   -T -

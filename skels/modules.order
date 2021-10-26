@@ -1,0 +1,7 @@
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.ko
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.ko
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/9-dyndbg/dyndbg.ko
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/6-cmd-mod/cmd_mod.ko
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/5-oops-mod/oops_mod.ko
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/4-multi-mod/supermodule.ko
+/home/wwq/vm_linux/linux/tools/labs/skels/./kernel_modules/8-kdb/hello_kdb.ko

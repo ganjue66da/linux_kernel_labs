@@ -1,0 +1,1 @@
+cmd_/home/wwq/vm_linux/linux/tools/labs/skels/kernel_modules/5-oops-mod/modules.order := {   echo /home/wwq/vm_linux/linux/tools/labs/skels/kernel_modules/5-oops-mod/oops_mod.ko; :; } | awk '!x[$$0]++' - > /home/wwq/vm_linux/linux/tools/labs/skels/kernel_modules/5-oops-mod/modules.order
