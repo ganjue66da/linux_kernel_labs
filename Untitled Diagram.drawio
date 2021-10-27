@@ -1,82 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T11:54:40.669Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="sJCROzvSyN8nKD78JWDS" version="15.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-27T14:30:48.397Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2M9rA8PciBLDwKPLaJHq" version="15.5.9" type="github" pages="2">
   <diagram id="2Nv8tBa7N8BT5brDQEJB" name="achievement">
-    <mxGraphModel dx="2465" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3702" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DjYXvXNdv97Wl0VyBLQK-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="130" width="630" height="200" as="geometry" />
+        <mxCell id="DjYXvXNdv97Wl0VyBLQK-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=5;align=center;pointerEvents=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="80" width="1180" height="467" as="geometry" />
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-1">
-          <mxGeometry width="630" height="47" as="geometry" />
+          <mxGeometry width="1180" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="DjYXvXNdv97Wl0VyBLQK-3" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;1-7 内核模块传参&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-2">
-          <mxGeometry width="147" height="47" as="geometry">
-            <mxRectangle width="147" height="47" as="alternateBounds" />
+        <mxCell id="DjYXvXNdv97Wl0VyBLQK-3" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;1-6 内核模块传参&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-2">
+          <mxGeometry width="275" height="47" as="geometry">
+            <mxRectangle width="275" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-4" value="&lt;a href=&quot;https://tldp.org/LDP/lkmpg/2.6/html/x323.html&quot;&gt;https://tldp.org/LDP/lkmpg/2.6/html/x323.html&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-2">
-          <mxGeometry x="147" width="363" height="47" as="geometry">
-            <mxRectangle width="363" height="47" as="alternateBounds" />
+          <mxGeometry x="275" width="585" height="47" as="geometry">
+            <mxRectangle width="585" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-2">
-          <mxGeometry x="510" width="120" height="47" as="geometry">
-            <mxRectangle width="120" height="47" as="alternateBounds" />
+          <mxGeometry x="860" width="320" height="47" as="geometry">
+            <mxRectangle width="320" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-1">
-          <mxGeometry y="47" width="630" height="59" as="geometry" />
+          <mxGeometry y="47" width="1180" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="DjYXvXNdv97Wl0VyBLQK-7" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;1-8 进程task_struct*p&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-6">
-          <mxGeometry width="147" height="59" as="geometry">
-            <mxRectangle width="147" height="59" as="alternateBounds" />
+        <mxCell id="DjYXvXNdv97Wl0VyBLQK-7" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;1-7 进程task_struct*p&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-6">
+          <mxGeometry width="275" height="59" as="geometry">
+            <mxRectangle width="275" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-8" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/ganjue66da/linux_kernel_labs/tree/main/skels/kernel_modules/7-list-proc&quot;&gt;https://github.com/ganjue66da/linux_kernel_labs/tree/main/skels/kernel_modules/7-list-proc&lt;/a&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-6">
-          <mxGeometry x="147" width="363" height="59" as="geometry">
-            <mxRectangle width="363" height="59" as="alternateBounds" />
+          <mxGeometry x="275" width="585" height="59" as="geometry">
+            <mxRectangle width="585" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-6">
-          <mxGeometry x="510" width="120" height="59" as="geometry">
-            <mxRectangle width="120" height="59" as="alternateBounds" />
+          <mxGeometry x="860" width="320" height="59" as="geometry">
+            <mxRectangle width="320" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-1">
-          <mxGeometry y="106" width="630" height="47" as="geometry" />
+          <mxGeometry y="106" width="1180" height="314" as="geometry" />
         </mxCell>
-        <mxCell id="DjYXvXNdv97Wl0VyBLQK-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-10">
-          <mxGeometry width="147" height="47" as="geometry">
-            <mxRectangle width="147" height="47" as="alternateBounds" />
+        <mxCell id="DjYXvXNdv97Wl0VyBLQK-11" value="1-8-kdb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-10">
+          <mxGeometry width="275" height="314" as="geometry">
+            <mxRectangle width="275" height="314" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjYXvXNdv97Wl0VyBLQK-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-10">
-          <mxGeometry x="147" width="363" height="47" as="geometry">
-            <mxRectangle width="363" height="47" as="alternateBounds" />
+        <mxCell id="DjYXvXNdv97Wl0VyBLQK-12" value="make boot&lt;br&gt;minicom -D series.pts&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;echo hvc0 &amp;gt; /sys/module/kgdboc/parameters/kgdboc&lt;br&gt;&lt;/span&gt;cd 8-kdb&lt;br&gt;insmod hello_kdb.ko&lt;br&gt;echo 1 &amp;gt; /proc/hello_kdb_bug&lt;br&gt;此时会进入kdb模式&lt;br&gt;lsmod读取进程live地址&lt;br&gt;在gdb中输入&lt;span style=&quot;font-size: 10px&quot;&gt;add-symbol-file ~/vm_linux/linux/tools/labs/skels/kernel_modules/8-kdb/hello_kdb.ko 0&lt;/span&gt;&lt;span&gt;xd0864000&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;在kdb中输入tb 在traceback中找到调用信息&lt;br&gt;i line *&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;dummy_func1+0x8/0x8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（此处填函数或地址）&lt;br&gt;显示出问题语句行数&lt;br&gt;&lt;br&gt;关于struct proc_dir_entry&lt;a href=&quot;https://blog.csdn.net/sty23122555/article/details/51638697&quot;&gt;https://blog.csdn.net/sty23122555/article/details/51638697&lt;/a&gt;&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-10">
+          <mxGeometry x="275" width="585" height="314" as="geometry">
+            <mxRectangle width="585" height="314" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjYXvXNdv97Wl0VyBLQK-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-10">
-          <mxGeometry x="510" width="120" height="47" as="geometry">
-            <mxRectangle width="120" height="47" as="alternateBounds" />
+        <mxCell id="DjYXvXNdv97Wl0VyBLQK-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;dump_stack+0x6d/0x8b&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;panic+0xb2/0x266&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;? dummy_func1+0x8/0x8 [hello_kdb]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;dummy_func18+0xd/0xd [hello_kdb]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;dummy_func17+0x8/0x8 [hello_kdb]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;dummy_func16+0x8/0x8 [hello_kdb]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;dummy_func15+0x8/0x8 [hello_kdb]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;dummy_func14+0x8/0x8 [hello_kdb]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;此例子中func1嵌套调用到func18&lt;/div&gt;&lt;div&gt;tb后先输出了func1，其次输出了func18，&lt;/div&gt;&lt;div&gt;其中panic函数出现在func18&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-10">
+          <mxGeometry x="860" width="320" height="314" as="geometry">
+            <mxRectangle width="320" height="314" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-1">
-          <mxGeometry y="153" width="630" height="47" as="geometry" />
+          <mxGeometry y="420" width="1180" height="47" as="geometry" />
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-14">
-          <mxGeometry width="147" height="47" as="geometry">
-            <mxRectangle width="147" height="47" as="alternateBounds" />
+          <mxGeometry width="275" height="47" as="geometry">
+            <mxRectangle width="275" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-14">
-          <mxGeometry x="147" width="363" height="47" as="geometry">
-            <mxRectangle width="363" height="47" as="alternateBounds" />
+          <mxGeometry x="275" width="585" height="47" as="geometry">
+            <mxRectangle width="585" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjYXvXNdv97Wl0VyBLQK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=10;align=left;" vertex="1" parent="DjYXvXNdv97Wl0VyBLQK-14">
-          <mxGeometry x="510" width="120" height="47" as="geometry">
-            <mxRectangle width="120" height="47" as="alternateBounds" />
+          <mxGeometry x="860" width="320" height="47" as="geometry">
+            <mxRectangle width="320" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0xNGgfO1WyL0FgAi1zCo-1" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
@@ -140,12 +140,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BBMxxeeEchxgctj_FWzU" name="questions">
-    <mxGraphModel dx="2048" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ueqvzUvDBRW681NDxKHG-0" />
         <mxCell id="ueqvzUvDBRW681NDxKHG-1" parent="ueqvzUvDBRW681NDxKHG-0" />
         <mxCell id="fYQm1WL6vumKPO3vuypY-0" value="some hard" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="ueqvzUvDBRW681NDxKHG-1">
-          <mxGeometry x="54" y="650" width="1200" height="400" as="geometry" />
+          <mxGeometry x="50" y="640" width="1200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-0">
           <mxGeometry y="30" width="1200" height="50" as="geometry" />
@@ -204,7 +204,7 @@
         <mxCell id="fYQm1WL6vumKPO3vuypY-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-0">
           <mxGeometry y="280" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fYQm1WL6vumKPO3vuypY-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-13">
+        <mxCell id="fYQm1WL6vumKPO3vuypY-14" value="gdb monitor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-13">
           <mxGeometry width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
