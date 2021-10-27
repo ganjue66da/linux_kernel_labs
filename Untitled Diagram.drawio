@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T07:27:47.143Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="WW6IviiSOn5PSrfJkByx" version="15.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-27T07:48:09.900Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="bURAMnCKHJtQCkTzJgep" version="15.5.9" type="github" pages="2">
   <diagram id="2Nv8tBa7N8BT5brDQEJB" name="achievement">
     <mxGraphModel dx="2465" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,16 +199,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-25" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="ueqvzUvDBRW681NDxKHG-1">
-          <mxGeometry x="50" y="450" width="600" height="120" as="geometry" />
+          <mxGeometry x="50" y="450" width="600" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NJa-5nCQPRtqjpg_0-pC-0" value="搜索问题前，先对错误信息进行判断，确定错误范围，然后再搜索，最好不要直接复制粘贴错误信息进行搜索" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
+          <mxGeometry width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-26" value="不要死扣问题，20分钟解决不了先放一放，记录问题，然后继续往下看" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
-          <mxGeometry width="600" height="30" as="geometry" />
+          <mxGeometry y="50" width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-27" value="一步步仔细看，记住自己都做过哪些更改，了解这些更改的影响" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
-          <mxGeometry y="30" width="600" height="30" as="geometry" />
+          <mxGeometry y="100" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fYQm1WL6vumKPO3vuypY-28" value="关于实验环境可能出问题的点：内核配置中的一些选项错误，qemu镜像错误，qemu位数错误，安装错误" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
-          <mxGeometry y="60" width="600" height="60" as="geometry" />
+        <mxCell id="fYQm1WL6vumKPO3vuypY-28" value="关于实验环境可能出问题的点：内核配置中的一些选项错误，在menuconfig和.config中修改。&#xa;qemu镜像错误，qemu位数错误，安装错误， 在Makefile和qemu.sh中修改&#xa;docker错误，在Dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
+          <mxGeometry y="130" width="600" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
