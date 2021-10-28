@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T14:30:48.397Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2M9rA8PciBLDwKPLaJHq" version="15.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-28T08:56:18.342Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="PQoF_ohqxyxpgvHiCqpi" version="15.5.9" type="github" pages="2">
   <diagram id="2Nv8tBa7N8BT5brDQEJB" name="achievement">
-    <mxGraphModel dx="3702" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3019" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
         <mxCell id="ueqvzUvDBRW681NDxKHG-0" />
         <mxCell id="ueqvzUvDBRW681NDxKHG-1" parent="ueqvzUvDBRW681NDxKHG-0" />
         <mxCell id="fYQm1WL6vumKPO3vuypY-0" value="some hard" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="ueqvzUvDBRW681NDxKHG-1">
-          <mxGeometry x="50" y="640" width="1200" height="400" as="geometry" />
+          <mxGeometry x="70" y="740" width="1200" height="450" as="geometry" />
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-0">
           <mxGeometry y="30" width="1200" height="50" as="geometry" />
@@ -220,25 +220,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-0">
-          <mxGeometry y="320" width="1200" height="40" as="geometry" />
+          <mxGeometry y="320" width="1200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fYQm1WL6vumKPO3vuypY-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-17">
-          <mxGeometry width="240" height="40" as="geometry">
-            <mxRectangle width="240" height="40" as="alternateBounds" />
+        <mxCell id="fYQm1WL6vumKPO3vuypY-18" value="qemu and gdb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-17">
+          <mxGeometry width="240" height="90" as="geometry">
+            <mxRectangle width="240" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYQm1WL6vumKPO3vuypY-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-17">
-          <mxGeometry x="240" width="634" height="40" as="geometry">
-            <mxRectangle width="634" height="40" as="alternateBounds" />
+        <mxCell id="fYQm1WL6vumKPO3vuypY-19" value="&lt;a href=&quot;https://linux-kernel-labs.github.io/refs/heads/master/labs/introduction.html&quot;&gt;https://linux-kernel-labs.github.io/refs/heads/master/labs/introduction.html&lt;/a&gt;&lt;br&gt;设置break sys_access后，并不能中断" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-17">
+          <mxGeometry x="240" width="634" height="90" as="geometry">
+            <mxRectangle width="634" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYQm1WL6vumKPO3vuypY-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-17">
-          <mxGeometry x="874" width="326" height="40" as="geometry">
-            <mxRectangle width="326" height="40" as="alternateBounds" />
+        <mxCell id="fYQm1WL6vumKPO3vuypY-20" value="运行模块后可以利用gdb打断点&lt;br&gt;因此认为环境配置没问题&lt;br&gt;在linux源码中搜索sys_access没有发现这个函数&lt;br&gt;但是发现了__ia32_sys_access这个函数&lt;br&gt;使用这个函数后可以正确执行" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-17">
+          <mxGeometry x="874" width="326" height="90" as="geometry">
+            <mxRectangle width="326" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-0">
-          <mxGeometry y="360" width="1200" height="40" as="geometry" />
+          <mxGeometry y="410" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-21">
           <mxGeometry width="240" height="40" as="geometry">
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-25" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="ueqvzUvDBRW681NDxKHG-1">
-          <mxGeometry x="50" y="450" width="600" height="190" as="geometry" />
+          <mxGeometry x="50" y="450" width="600" height="250" as="geometry" />
         </mxCell>
         <mxCell id="NJa-5nCQPRtqjpg_0-pC-0" value="搜索问题前，先对错误信息进行判断，确定错误范围，然后再搜索，最好不要直接复制粘贴错误信息进行搜索" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
           <mxGeometry width="600" height="50" as="geometry" />
@@ -269,6 +269,9 @@
         </mxCell>
         <mxCell id="fYQm1WL6vumKPO3vuypY-28" value="关于实验环境可能出问题的点：内核配置中的一些选项错误，在menuconfig和.config中修改。&#xa;qemu镜像错误，qemu位数错误，安装错误， 在Makefile和qemu.sh中修改&#xa;docker错误，在Dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
           <mxGeometry y="130" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjtgAkaJKLDk9gJ6wnqa-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fYQm1WL6vumKPO3vuypY-25">
+          <mxGeometry y="190" width="600" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
